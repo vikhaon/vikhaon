@@ -1,15 +1,15 @@
 ### Hi there, my name is Viktor Kotrucz. 👋
 
-## I'm a Web Developer.
-- 🔭 I’m currently working on: Event-Realm(Social Media Website) & Deja-Vu(eCommerce Website).
-- 🌱 I’m currently learning Redux-Toolkit-Query, JWT refresh/access tokens and advanced TypeScript with React.
-- 💬 Ask me about anything web dev related.
+## I'm a Web Developer
+- 🔭 I’m currently working on: Event-Realm(Social Media Website) & Deja-Vu(eCommerce Website)
+- 🌱 I’m currently learning Redux-Toolkit-Query, JWT refresh/access tokens and advanced TypeScript with React
+- 💬 Ask me about anything web dev related
 - ⚡ Fun fact: my blood type is `JS`
 ## I am also:
-- a passionate React.js fan.
-- excited about web development technologies.
-- motivated to build cool projects.
-- learning new technologies everyday.
+- a passionate Next.js fan
+- excited about both front and backend technologies
+- motivated to build cool projects
+- improving everyday
 
 ## Frontend 
 * HTML5, CSS3, SCSS, JavaScript, Typescript, React.js, Next.js, Redux, Styled-Components, Material UI, React-Bootstrap
