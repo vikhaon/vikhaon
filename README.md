@@ -2,7 +2,6 @@
 
 ## I'm a Web Developer
 - 🔭 I’m currently working on: Event-Realm(Social Media Website) & Deja-Vu(eCommerce Website)
-- 🌱 I’m currently learning Redux-Toolkit-Query, JWT refresh/access tokens and advanced TypeScript with React
 - 💬 Ask me about anything web dev related
 - ⚡ Fun fact: my blood type is `JS`
 ## I am also:
@@ -12,13 +11,13 @@
 - improving everyday
 
 ## Frontend 
-* HTML5, CSS3, SCSS, JavaScript, Typescript, React.js, Next.js, Redux, Styled-Components, Material UI, React-Bootstrap
+* HTML5, CSS3, SCSS, JavaScript, Typescript, React.js, Next.js, Redux, Styled-Components, Tailwind, Material UI, React-Bootstrap
 
 ## Backend
-* Node, Express, JWT
+* Node, Express
 
 ## Databases
-* MongoDB, PostgreSQL
+* MongoDB, PostgreSQL, Redis
 
 ### Languages and Tools:
 
